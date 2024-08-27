@@ -1,0 +1,275 @@
+
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Wilkins",
+      "subject": "Introduction to Computer Science",
+      "stars": 4,
+      "review": "Dr. Wilkins is an excellent professor who makes even the most complex topics easy to understand. Her lectures are engaging and she is always available to help students during office hours."
+    },
+    {
+      "professor": "Professor Michael Chen",
+      "subject": "Organic Chemistry",
+      "stars": 3,
+      "review": "Professor Chen is knowledgeable, but his lectures can be dry and difficult to follow at times. The course material is challenging, and he doesn't always provide clear explanations."
+    },
+    {
+      "professor": "Dr. Sarah Johnson",
+      "subject": "Introduction to Psychology",
+      "stars": 5,
+      "review": "Dr. Johnson is an absolute gem. Her passion for the subject is contagious, and she creates a welcoming and inclusive classroom environment. I highly recommend this course."
+    },
+    {
+      "professor": "Professor David Nguyen",
+      "subject": "Calculus I",
+      "stars": 2,
+      "review": "I struggled greatly in this course, and Professor Nguyen did not provide enough support or guidance. The exams were particularly challenging, and I felt unprepared despite attending every lecture."
+    },
+    {
+      "professor": "Dr. Olivia Ramirez",
+      "subject": "World History",
+      "stars": 4,
+      "review": "Dr. Ramirez is a gifted storyteller who brings history to life. Her lectures are engaging and thought-provoking, and she encourages class discussions that deepen our understanding of the material."
+    },
+    {
+      "professor": "Professor Sophia Lee",
+      "subject": "Principles of Marketing",
+      "stars": 3,
+      "review": "Professor Lee is knowledgeable about the subject matter, but her teaching style is quite dry. The course content is interesting, but the lectures can be monotonous at times."
+    },
+    {
+      "professor": "Dr. Liam Martinez",
+      "subject": "Introductory Biology",
+      "stars": 4,
+      "review": "Dr. Martinez is a fantastic professor who genuinely cares about his students' learning. His lectures are well-organized and he provides ample opportunities for hands-on lab work and group discussions."
+    },
+    {
+      "professor": "Professor Ava Gonzalez",
+      "subject": "Introduction to Creative Writing",
+      "stars": 5,
+      "review": "Professor Gonzalez is an inspiring and supportive instructor. She creates a nurturing environment that encourages students to take risks and explore their creative potential. This course was a highlight of my semester."
+    },
+    {
+      "professor": "Dr. Jacob Flores",
+      "subject": "Principles of Economics",
+      "stars": 3,
+      "review": "Dr. Flores is knowledgeable about the subject matter, but his lectures can be dry and difficult to follow at times. The course material is challenging, and he doesn't always provide clear explanations or examples."
+    },
+    {
+      "professor": "Professor Isabella Morales",
+      "subject": "Introduction to Sociology",
+      "stars": 4,
+      "review": "Professor Morales is a dynamic and engaging instructor. She encourages lively class discussions and provides thoughtful insights that help students better understand the complexities of social structures and interactions."
+    },
+    {
+      "professor": "Dr. Lucas Hernandez",
+      "subject": "Quantum Mechanics",
+      "stars": 4,
+      "review": "Dr. Hernandez is a brilliant physicist who has a talent for making even the most complex quantum concepts accessible. His lectures are captivating, and he is always willing to clarify any questions or concerns."
+    },
+    {
+      "professor": "Professor Isabelle Dupont",
+      "subject": "French Language and Culture",
+      "stars": 5,
+      "review": "Professor Dupont is an exceptional language instructor. She creates a immersive and supportive environment that allows students to rapidly improve their French proficiency. Her passion for the language and culture is truly inspiring."
+    },
+    {
+      "professor": "Dr. Ethan Gomez",
+      "subject": "Principles of Management",
+      "stars": 3,
+      "review": "While Dr. Gomez is knowledgeable about the subject matter, his teaching style can be dry and tedious at times. The course content is relevant and practical, but the lectures could be more engaging and interactive."
+    },
+    {
+      "professor": "Professor Abigail Diaz",
+      "subject": "Introduction to Visual Arts",
+      "stars": 4,
+      "review": "Professor Diaz is a talented artist who brings a unique perspective to the course. Her lectures are visually stimulating, and she provides valuable feedback and guidance during the hands-on studio sessions."
+    },
+    {
+      "professor": "Dr. Noah Sanchez",
+      "subject": "Comparative Literature",
+      "stars": 5,
+      "review": "Dr. Sanchez is a brilliant and insightful professor who has a deep understanding of literature from around the world. His lectures are engaging and thought-provoking, and he encourages students to explore diverse perspectives and critical analysis."
+    },
+    {
+      "professor": "Professor Sophia Gutierrez",
+      "subject": "Introduction to Environmental Science",
+      "stars": 4,
+      "review": "Professor Gutierrez is passionate about environmental issues and effectively communicates the importance of sustainable practices. Her lectures are informative and she often incorporates real-world case studies and hands-on activities."
+    },
+    {
+      "professor": "Dr. Liam Moreno",
+      "subject": "Differential Equations",
+      "stars": 3,
+      "review": "While Dr. Moreno is knowledgeable about the subject matter, his lectures can be difficult to follow at times. The course material is challenging, and he doesn't always provide clear explanations or sufficient examples to help students understand the concepts."
+    },
+    {
+      "professor": "Professor Ava Reyes",
+      "subject": "Introductory Psychology",
+      "stars": 4,
+      "review": "Professor Reyes is an engaging and enthusiastic instructor who makes the subject matter come alive. Her lectures are well-organized and she provides ample opportunities for class discussions and hands-on activities."
+    },
+    {
+      "professor": "Dr. Jacob Vargas",
+      "subject": "Introduction to Public Speaking",
+      "stars": 5,
+      "review": "Dr. Vargas is an exceptional public speaking instructor. He creates a supportive and encouraging environment that helps students develop their confidence and communication skills. His feedback is always constructive and insightful."
+    },
+    {
+      "professor": "Professor Isabella Castillo",
+      "subject": "Principles of Accounting",
+      "stars": 3,
+      "review": "While Professor Castillo is knowledgeable about the subject matter, her teaching style can be dry and monotonous at times. The course material is challenging, and she doesn't always provide clear explanations or practical examples to help students understand the concepts."
+    },
+    {
+      "professor": "Dr. Lucas Fernandez",
+      "subject": "Introduction to Political Science",
+      "stars": 4,
+      "review": "Dr. Fernandez is a passionate and engaging professor who brings a wealth of knowledge and experience to the classroom. His lectures are thought-provoking and he encourages students to critically analyze complex political issues."
+    },
+    {
+      "professor": "Professor Isabelle Mercier",
+      "subject": "Introduction to European History",
+      "stars": 4,
+      "review": "Professor Mercier is a gifted storyteller who brings European history to life. Her lectures are well-organized and she provides ample opportunities for class discussions and analysis of primary sources."
+    },
+    {
+      "professor": "Dr. Ethan Rojas",
+      "subject": "Principles of Finance",
+      "stars": 3,
+      "review": "Dr. Rojas is knowledgeable about the subject matter, but his lectures can be dry and difficult to follow at times. The course material is challenging, and he doesn't always provide clear explanations or practical examples to help students understand the concepts."
+    },
+    {
+      "professor": "Professor Abigail Suarez",
+      "subject": "Introduction to Studio Art",
+      "stars": 4,
+      "review": "Professor Suarez is a talented artist who provides valuable guidance and feedback during the studio sessions. She creates a supportive and nurturing environment that encourages students to explore their creative potential."
+    },
+    {
+      "professor": "Dr. Noah Gutierrez",
+      "subject": "Principles of Macroeconomics",
+      "stars": 4,
+      "review": "Dr. Gutierrez is a knowledgeable and engaging professor who effectively communicates complex economic concepts. His lectures are well-structured, and he provides ample opportunities for class discussions and problem-solving activities."
+    },
+    {
+      "professor": "Professor Sophia Martinez",
+      "subject": "Introduction to Philosophy",
+      "stars": 5,
+      "review": "Professor Martinez is an exceptional philosopher who has a talent for making even the most complex ideas accessible and engaging. Her lectures are thought-provoking and she encourages students to critically examine their own beliefs and assumptions."
+    },
+    {
+      "professor": "Dr. Liam Soto",
+      "subject": "Introductory Chemistry",
+      "stars": 3,
+      "review": "While Dr. Soto is knowledgeable about the subject matter, his teaching style can be dry and difficult to follow at times. The course material is challenging, and he doesn't always provide clear explanations or sufficient hands-on lab work to reinforce the concepts."
+    },
+    {
+      "professor": "Professor Ava Dominguez",
+      "subject": "Introduction to Human Geography",
+      "stars": 4,
+      "review": "Professor Dominguez is an enthusiastic and engaging instructor who brings a global perspective to the course. Her lectures are informative and she often incorporates interactive activities and case studies to help students understand the complexities of human-environment interactions."
+    },
+    {
+      "professor": "Dr. Jacob Ramirez",
+      "subject": "Principles of Marketing",
+      "stars": 4,
+      "review": "Dr. Ramirez is a knowledgeable and experienced marketing professional who effectively translates theoretical concepts into practical applications. His lectures are well-organized, and he provides ample opportunities for case studies and group projects."
+    },
+    {
+      "professor": "Professor Isabella Ortiz",
+      "subject": "Introduction to Criminology",
+      "stars": 5,
+      "review": "Professor Ortiz is a captivating instructor who brings a wealth of real-world experience to the classroom. Her lectures are engaging and thought-provoking, and she encourages students to critically examine the complex social, political, and ethical issues surrounding crime and the criminal justice system."
+    },
+    {
+      "professor": "Dr. Lucas Cordova",
+      "subject": "Principles of Management",
+      "stars": 3,
+      "review": "While Dr. Cordova is knowledgeable about the subject matter, his teaching style can be dry and monotonous at times. The course material is relevant and practical, but the lectures could be more interactive and engaging."
+    },
+    {
+      "professor": "Professor Isabelle Delgado",
+      "subject": "Introduction to Statistics",
+      "stars": 4,
+      "review": "Professor Delgado is an excellent instructor who has a talent for making statistical concepts accessible and understandable. Her lectures are well-structured, and she provides ample opportunities for hands-on data analysis and problem-solving activities."
+    },
+    {
+      "professor": "Dr. Ethan Santana",
+      "subject": "Principles of Microeconomics",
+      "stars": 4,
+      "review": "Dr. Santana is a knowledgeable and engaging professor who effectively communicates complex economic principles. His lectures are well-organized, and he provides ample opportunities for class discussions and problem-solving exercises."
+    },
+    {
+      "professor": "Professor Abigail Meza",
+      "subject": "Introduction to World Religions",
+      "stars": 5,
+      "review": "Professor Meza is an exceptional instructor who brings a wealth of knowledge and cultural understanding to the classroom. Her lectures are engaging and informative, and she encourages students to explore diverse religious traditions with an open and respectful mindset."
+    },
+    {
+      "professor": "Dr. Noah Pena",
+      "subject": "Introductory Biology",
+      "stars": 4,
+      "review": "Dr. Pena is a dedicated and knowledgeable professor who makes complex biological concepts accessible and engaging. His lectures are well-structured, and he provides ample opportunities for hands-on lab work and class discussions."
+    },
+    {
+      "professor": "Professor Sophia Jimenez",
+      "subject": "Introduction to Sociology",
+      "stars": 4,
+      "review": "Professor Jimenez is an engaging and thought-provoking instructor who encourages students to critically examine the social structures and processes that shape our world. Her lectures are informative, and she often incorporates real-world case studies and group activities."
+    },
+    {
+      "professor": "Dr. Liam Mendoza",
+      "subject": "Principles of Accounting",
+      "stars": 3,
+      "review": "While Dr. Mendoza is knowledgeable about the subject matter, his teaching style can be dry and difficult to follow at times. The course material is challenging, and he doesn't always provide clear explanations or practical examples to help students understand the concepts."
+    },
+    {
+      "professor": "Professor Ava Varela",
+      "subject": "Introduction to Digital Media",
+      "stars": 4,
+      "review": "Professor Varela is a talented and experienced digital media professional who brings a wealth of practical knowledge to the classroom. Her lectures are engaging, and she provides valuable hands-on experience with various software and tools."
+    },
+    {
+      "professor": "Dr. Jacob Morales",
+      "subject": "Principles of Finance",
+      "stars": 4,
+      "review": "Dr. Morales is a knowledgeable and engaging professor who effectively communicates complex financial concepts. His lectures are well-structured, and he provides ample opportunities for case studies, problem-solving exercises, and class discussions."
+    },
+    {
+      "professor": "Professor Isabella Guzman",
+      "subject": "Introduction to Creative Writing",
+      "stars": 5,
+      "review": "Professor Guzman is a talented and inspiring writer who fosters a supportive and nurturing environment in the classroom. Her feedback is insightful and constructive, and she encourages students to explore their unique creative voices."
+    },
+    {
+      "professor": "Dr. Lucas Moreno",
+      "subject": "Principles of Marketing",
+      "stars": 4,
+      "review": "Dr. Moreno is a knowledgeable and experienced marketing professional who effectively translates theoretical concepts into practical applications. His lectures are engaging, and he provides ample opportunities for case studies, group projects, and class discussions."
+    },
+    {
+      "professor": "Professor Isabelle Diaz",
+      "subject": "Introduction to Environmental Science",
+      "stars": 4,
+      "review": "Professor Diaz is a passionate and engaging instructor who brings a strong scientific and sustainability-focused approach to the course. Her lectures are informative, and she often incorporates hands-on activities and field trips to reinforce the concepts."
+    },
+    {
+      "professor": "Dr. Ethan Reyes",
+      "subject": "Introductory Psychology",
+      "stars": 4,
+      "review": "Dr. Reyes is a knowledgeable and enthusiastic professor who makes the subject matter engaging and accessible. His lectures are well-organized, and he provides ample opportunities for class discussions, interactive activities, and real-world applications."
+    },
+    {
+      "professor": "Professor Abigail Hernandez",
+      "subject": "Principles of Management",
+      "stars": 3,
+      "review": "While Professor Hernandez is knowledgeable about the subject matter, her teaching style can be dry and monotonous at times. The course material is relevant and practical, but the lectures could be more interactive and engaging."
+    },
+    {
+      "professor": "Dr. Noah Flores",
+      "subject": "Introduction to Macroeconomics",
+      "stars": 4,
+      "review": "Dr. Flores is a knowledgeable and engaging professor who effectively communicates complex economic concepts. His lectures are well-structured, and he provides ample opportunities for class discussions, problem-solving exercises, and real-world case studies."
+    }
+  ]
+}
